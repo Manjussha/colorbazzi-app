@@ -59,7 +59,7 @@ const Header = () => {
             <NavLinks />
           </div>
           <div className="main-nav__right">
-            <a href="#" className="thm-btn">
+            <a href="https://raw.githubusercontent.com/Manjussha/colorbazzi/main/app-release.apk" className="thm-btn">
               <span>Download App</span>
             </a>
           </div>
