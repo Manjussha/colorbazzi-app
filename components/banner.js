@@ -32,8 +32,8 @@ const Banner = () => {
                 <br />
                 and make your Fantasy come True.
               </p>
-              <a href="#" className="thm-btn">
-                <span>Discover More</span>
+              <a href="https://raw.githubusercontent.com/Manjussha/colorbazzi/main/app-release.apk" className="thm-btn">
+                <span>Download App</span>
               </a>
             </div>
           </Col>
