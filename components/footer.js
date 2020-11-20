@@ -35,7 +35,7 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="color-3">
+                  <a href="https://www.instagram.com/colorbazzi" className="color-3">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </li>
