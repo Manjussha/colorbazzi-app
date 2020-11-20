@@ -28,6 +28,8 @@ const Layout = ({ pageTitle, children }) => {
     <div>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="One of the world's leading online Bidding app.The most comprehensive In-Play service. Deposit Bonus for New Customers,Get competitive odds & bet online on all major events at color bazzi. Find premium quality sports betting and explore great promotions"></meta>
+        <meta name="keywords" content="	world's leading,leading online, online gambling, world's leading online, leading online gambling, online gambling apps, latest sports odds , responsible betting site , three core values,  betting odds, betting site, online betting, sports betting"></meta>
         <title>{pageTitle}</title>
         <link rel="apple-touch-icon" sizes="180x180" href={AppleTouch} />
         <link rel="icon" type="image/png" sizes="32x32" href={Fevicon32} />
