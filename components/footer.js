@@ -19,19 +19,10 @@ const Footer = () => {
                 <img src={footerLogo} alt="Footer Logo" />
               </div>
               <ul className="footer-widget__social">
+               
                 <li>
-                  <a href="#">
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" className="color-1">
+                  <a href="https://www.facebook.com/colorbazzii" className="color-1">
                     <i className="fab fa-facebook"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" className="color-2">
-                    <i className="fab fa-pinterest-p"></i>
                   </a>
                 </li>
                 <li>
