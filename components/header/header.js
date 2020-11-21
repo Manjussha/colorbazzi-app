@@ -59,7 +59,7 @@ const Header = () => {
             <NavLinks />
           </div>
           <div className="main-nav__right">
-            <a href="https://raw.githubusercontent.com/Manjussha/colorbazzi/main/app-release.apk" className="thm-btn">
+            <a href="https://play.google.com/store/apps/details?id=app.game.colorbazzi" className="thm-btn">
               <span>Download App</span>
             </a>
           </div>
@@ -85,7 +85,7 @@ const Header = () => {
             <NavLinks />
           </div>
           <div className="main-nav__right">
-            <a href="https://raw.githubusercontent.com/Manjussha/colorbazzi/main/app-release.apk" className="thm-btn">
+            <a href="https://play.google.com/store/apps/details?id=app.game.colorbazzi" className="thm-btn">
               <span>Download App</span>
             </a>
           </div>
