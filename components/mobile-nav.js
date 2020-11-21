@@ -26,7 +26,7 @@ const MobileNav = () => {
           </p>
           <p>
             <a href="mailto:needhelp@apton.com">support@colorbazzi.freshdesk.com</a> <br />{" "}
-            <a href="tel:888-999-0000">888 999 0000</a>
+            <a href="tel:9513483680">888 999 0000</a>
           </p>
           <div className="side-menu__social">
             <a href="#">
